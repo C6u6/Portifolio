@@ -1,0 +1,48 @@
+:root {
+    --body-bg-color: #22212C;
+    --text-color: #837E9F;
+    --bg-cards: #302F3D;
+    --bg-techs: #CB92B1;}
+
+body {
+    font-family: 'Merriweather', 'Sans' ;
+    font-weight: 400, 500, 700;
+    background-color: #0c0c0c;
+}
+
+main {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 15px;
+}
+
+aside {
+    width: 420px;
+}
+
+.projects {
+    width: 900px;
+}
+
+aside > div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+
+    margin: 15px;
+}
+
+.box-aspect {
+    border-radius: 15px;
+    background-color: #302F3D;
+    color: #837E9F;
+}
+
+.heading {
+    margin-left: 20px;
+    margin-top: 20px;
+
+    font-weight: 600;
+    font-size: 20px;
+}

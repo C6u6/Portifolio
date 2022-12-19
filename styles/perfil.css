@@ -1,0 +1,25 @@
+.perfil {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    padding: 5px;
+}
+
+.perfil-image {
+    width: 150px;
+    height: 150px;
+
+    border-radius: 200px;
+    margin-top: 10px;
+}
+
+.perfil-name{
+    font-size: larger;
+    margin-bottom: 5px;
+}
+
+.ocupation {
+    margin-top: 0;
+    font-size: 14px;
+}

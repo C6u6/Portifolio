@@ -1,0 +1,18 @@
+.contact {
+    padding: 10px;
+}
+
+.contact  *{
+    display: flex;
+    flex-direction: row;
+    margin: 4px 0;
+    margin-left: 15px;
+}
+
+.contact-link {
+    margin: 1.9px;
+}
+
+.contact-link:hover {
+    color: rgba(49, 250, 166, 0.801);
+}

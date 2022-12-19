@@ -1,0 +1,24 @@
+.pretty-techs-names {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+   
+    padding: 20px;
+}
+
+.pretty-techs-names div{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+
+    font-weight: 600;
+    font-size: 15px;
+
+    padding: 2px;
+
+    border-radius: 20px;
+    width: 100px;
+
+    background-color: #CB92B1;
+    color: black;
+}

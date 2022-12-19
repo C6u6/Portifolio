@@ -1,0 +1,14 @@
+footer {
+    display: flex;
+    justify-content: center;
+    margin-left: 18px;
+}
+
+.footer{
+    border-radius: 15px;
+    width: 100vw;
+}
+
+.footer span {
+    margin-left: 44vw;
+}
