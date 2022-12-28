@@ -13,6 +13,10 @@
     margin: 0 40px;
 }
 
+.box-links *:hover{
+    color: aqua;
+}
+
 a {
     text-decoration: none;
     color: #837E9F;
