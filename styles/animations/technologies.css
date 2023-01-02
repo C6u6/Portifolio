@@ -1,0 +1,5 @@
+.pretty-techs-names > div:hover {
+    box-shadow: 2px 6px 6px 6px rgba(0, 153, 255, 0.548);
+    position: relative;
+    bottom: 4px;
+}
