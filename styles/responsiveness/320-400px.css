@@ -3,7 +3,6 @@
     main,
     .projects-container {
         display: inline-block;
-        word-break: break-all;
     }
 
     main,
@@ -11,7 +10,7 @@
         margin: auto;
         width: 90%
     }
-
+    
     .projects {
         width: 104%;
         margin-left: 15px;
@@ -33,6 +32,4 @@
     .footer {
         border-radius: 10px;
     }
-
-    
 }

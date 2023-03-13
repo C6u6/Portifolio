@@ -10,6 +10,10 @@ body {
     background-color: #0c0c0c;
 }
 
+body * {
+    word-break: keep-all;
+}
+
 main {
     display: grid;
     grid-template-columns: repeat(2, 1fr);

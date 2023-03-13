@@ -1,0 +1,9 @@
+.wide-retangular-box {
+    padding: 5px 15px;
+    margin-bottom: 10px;
+}
+
+.wide-retangular-box ul {
+    display: flex;
+    justify-content: space-around;
+}

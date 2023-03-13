@@ -3,7 +3,6 @@
     main,
     .projects-container {
         display: inline-block;
-        word-break: break-all;
     }
 
     main,
