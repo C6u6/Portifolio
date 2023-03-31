@@ -7,7 +7,7 @@ function redirect(triggerCardClassNameWithoutDot, url) {
 }
 
 // GitHub
-redirect('first-project', 'https://github.com/C6u6/notifications-service');
+redirect('first-project', 'https://github.com/C6u6/Scripts');
 redirect('second-project', 'https://github.com/C6u6/mail');
 redirect('third-project', 'https://github.com/C6u6/student');
 redirect('forth-project', 'https://github.com/C6u6/scientia');

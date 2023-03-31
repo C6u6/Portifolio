@@ -50,6 +50,7 @@ a {
 .section-footer {
     display: flex;
     margin-left: 20px;
+    color: #02ffff;
 }
 
 .section-header {
